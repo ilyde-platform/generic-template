@@ -15,8 +15,6 @@ Project Organization
     │   ├── <dataset3>      <- ReadOnly Dataset attached to this project.
     │   └── <dataset4>      <- ReadOnly Dataset attached to this project.
     │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
-    │
     ├── models             <- Trained and serialized models, model predictions, or model summaries
     │
     ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
