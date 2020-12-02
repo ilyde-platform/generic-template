@@ -9,7 +9,7 @@ Project Organization
     ├── LICENSE
     ├── Makefile           <- Makefile with useful commands
     ├── README.md          <- The top-level README for developers using this project.
-    ├── data
+    ├── datasets
     │   ├── <dataset1>      <- ReadOnly Dataset attached to this project.
     │   ├── <dataset2>      <- ReadOnly Dataset attached to this project.
     │   ├── <dataset3>      <- ReadOnly Dataset attached to this project.
