@@ -6,14 +6,12 @@
 Project Organization
 ------------
 
-    ├── LICENSE
-    ├── Makefile           <- Makefile with useful commands
     ├── README.md          <- The top-level README for developers using this project.
     ├── datasets
-    │   ├── <dataset1>      <- ReadOnly Dataset attached to this project.
-    │   ├── <dataset2>      <- ReadOnly Dataset attached to this project.
-    │   ├── <dataset3>      <- ReadOnly Dataset attached to this project.
-    │   └── <dataset4>      <- ReadOnly Dataset attached to this project.
+    │   ├── <dataset1>      <- Dataset attached to this project.
+    │   ├── <dataset2>      <- Dataset attached to this project.
+    │   ├── <dataset3>      <- Dataset attached to this project.
+    │   └── <dataset4>      <- Dataset attached to this project.
     │
     ├── models             <- Trained and serialized models, model predictions, or model summaries
     │
@@ -28,8 +26,6 @@ Project Organization
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
     │                         generated with `pip freeze > requirements.txt`
-    │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
     ├── src                <- Source code for use in this project.
     │   ├── __init__.py    <- Makes src a Python module
     │   │
@@ -46,9 +42,7 @@ Project Organization
     │   │
     │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
     │       └── visualize.py
-    │
-    └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
-
+ 
 
 --------
 
